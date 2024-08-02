@@ -310,6 +310,11 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 
 ### Machine-learning guided directed evolution
 
+**Evolutionary Probability and Stacked Regressions Enable Data-Driven Protein Engineering with Minimized Experimental Effort. (MERGE)**  
+Alexander-Maurice Illig, Niklas E. Siedhoff, Mehdi D. Davari and Ulrich Schwaneberg.  
+*Journal of Chemical Information and Modeling, August 2024.*  
+[[arxiv](https://doi.org/10.1021/acs.jcim.4c00704)]
+
 **Enhanced Sequence-Activity Mapping and Evolution of Artificial Metalloenzymes by Active Learning.**  
 Tobias Vornholt, Mojmír Mutný, Gregor W. Schmidt, Christian Schellhaas, Ryo Tachibana, Sven Panke, Thomas R. Ward, Andreas Krause*, and Markus Jeschek.  
 *ACS Central Science, May 2024.*  
@@ -419,11 +424,6 @@ Sharrol Bachas, Goran Rakocevic, David Spencer, Anand V. Sastry, Robel Haile, Jo
 Emily K. Makowski, Patrick C. Kinnunen, Jie Huang, Lina Wu, Matthew D. Smith, Tiexin Wang, Alec A. Desai, Craig N. Streu, Yulei Zhang, Jennifer M. Zupancic, John S. Schardt, Jennifer J. Linderman, Peter M. Tessier.  
 *Nature communications, July 2022.*  
 [[10.1038/s41467-022-31457-3](https://doi.org/10.1038/s41467-022-31457-3)]
-
-**A hybrid model combining evolutionary probability and machine learning leverages data-driven protein engineering.**  
-Alexander-Maurice Illig, Niklas E. Siedhoff, Ulrich Schwaneberg and Mehdi D. Davari.  
-*Preprint, June 2022.*  
-[[arxiv](https://doi.org/10.1101/2022.06.07.495081 )]
 
 **Heterogeneity of the GFP fitness landscape and data-driven protein design.**  
 Louisa Gonzalez Somermeyer, Aubin Fleiss, Alexander S Mishin, Nina G Bozhanova, Anna A Igolkina, Jens Meiler, Maria-Elisenda Alaball Pujol, Ekaterina V Putintseva, Karen S Sarkisyan.  
