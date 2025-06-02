@@ -310,6 +310,11 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 
 ### Machine-learning guided directed evolution
 
+**Semi-supervised prediction of protein fitness for data-driven protein engineering.**  
+Alicia Olivares-Gil, José A. Barbero-Aparicio, Juan J. Rodríguez, José F. Díez-Pastor, César García-Osorio and Mehdi D. Davari.  
+*Journal of Cheminformatics, May 2025.*  
+[[10.1186/s13321-025-01029-w](https://doi.org/10.1186/s13321-025-01029-w)]
+
 **Enhanced Sequence-Activity Mapping and Evolution of Artificial Metalloenzymes by Active Learning.**  
 Tobias Vornholt, Mojmír Mutný, Gregor W. Schmidt, Christian Schellhaas, Ryo Tachibana, Sven Panke, Thomas R. Ward, Andreas Krause*, and Markus Jeschek.  
 *ACS Central Science, May 2024.*  
@@ -347,8 +352,8 @@ Neil Thomas, David Belanger, Chenling Xu, Hanson Lee, Kathleen Hirano, Kosuke Iw
 
 **Interpretable and explainable predictive machine learning models for data-driven protein engineering.**  
 David Medina-Ortiz, Ashkan Khalifeh, Hoda Anvari-Kazemabad and Mehdi D. Davari.  
-*Preprint, March 2024.*  
-[[arxiv](https://doi.org/10.1101/2024.02.18.580860)]
+*Biotechnology Advances, March 2025.*  
+[[10.1016/j.biotechadv.2024.108495](https://doi.org/10.1016/j.biotechadv.2024.108495)]
 
 **Machine Learning-Assisted Engineering of Light, Oxygen, Voltage Photoreceptor Adduct Lifetime.**  
 Stefanie Hemmer, Niklas Erik Siedhoff, Sophia Werner, Gizem Ölçücü, Ulrich Schwaneberg, Karl-Erich Jaeger, Mehdi D. Davari, and Ulrich Krauss
@@ -420,10 +425,10 @@ Emily K. Makowski, Patrick C. Kinnunen, Jie Huang, Lina Wu, Matthew D. Smith, Ti
 *Nature communications, July 2022.*  
 [[10.1038/s41467-022-31457-3](https://doi.org/10.1038/s41467-022-31457-3)]
 
-**A hybrid model combining evolutionary probability and machine learning leverages data-driven protein engineering.**  
+**Evolutionary Probability and Stacked Regressions Enable Data-Driven Protein Engineering with Minimized Experimental Effort**  
 Alexander-Maurice Illig, Niklas E. Siedhoff, Ulrich Schwaneberg and Mehdi D. Davari.  
-*Preprint, June 2022.*  
-[[arxiv](https://doi.org/10.1101/2022.06.07.495081 )]
+*J. Chem. Inf. Model. 2024*  
+[[10.1021/acs.jcim.4c00704](https://doi.org/10.1021/acs.jcim.4c00704)]
 
 **Heterogeneity of the GFP fitness landscape and data-driven protein design.**  
 Louisa Gonzalez Somermeyer, Aubin Fleiss, Alexander S Mishin, Nina G Bozhanova, Anna A Igolkina, Jens Meiler, Maria-Elisenda Alaball Pujol, Ekaterina V Putintseva, Karen S Sarkisyan.  
